@@ -1,4 +1,5 @@
-ExpenseTracker
+ExpenseTracker :
+
 The Expense Tracker project aims to provide users with a convenient way to track their expenses. The project addresses the common problem of individuals and businesses needing to monitor and manage their spending habits. By developing an expense tracking application, users can easily record and analyse their expenses, helping them make informed financial decisions.
 
 
